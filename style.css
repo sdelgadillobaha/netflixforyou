@@ -1,3 +1,4 @@
+
 h1 {
     color: red;
     text-align: center
@@ -16,4 +17,22 @@ h1 {
 body {
     background-image: url('./background.jpg');
     background-size: cover;
+}
+.text{
+    color: white;
+    font-style: bold;
+    font-size: 30px;
+    text-align: center
+}
+
+a {
+    color:white 
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+.signs {
+    width: 600px;
 }
