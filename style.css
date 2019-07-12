@@ -44,3 +44,9 @@ a:visited {
 .signs {
     width: 600px;
 }
+
+
+.copyright{
+    color: darkgrey;
+    font-size: 15px
+}
